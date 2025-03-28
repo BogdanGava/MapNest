@@ -6,7 +6,6 @@ import {updateDoc, doc} from 'firebase/firestore'
 import { db } from '../firebase.config'
 import {toast} from 'react-toastify'
 
-/// winarrow versioning si build cu github, iar deploy cu jenkins
 
 
 function Profile() {
